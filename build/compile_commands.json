@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/Acceptor.o -c /mnt/d/vs_proj/muduo/mymuduo/Acceptor.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/Acceptor.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/Buffer.o -c /mnt/d/vs_proj/muduo/mymuduo/Buffer.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/Buffer.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/Channel.o -c /mnt/d/vs_proj/muduo/mymuduo/Channel.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/Channel.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/CurrentThread.o -c /mnt/d/vs_proj/muduo/mymuduo/CurrentThread.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/CurrentThread.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/DefaultPoller.o -c /mnt/d/vs_proj/muduo/mymuduo/DefaultPoller.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/DefaultPoller.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/EPollPoller.o -c /mnt/d/vs_proj/muduo/mymuduo/EPollPoller.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/EPollPoller.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/EventLoop.o -c /mnt/d/vs_proj/muduo/mymuduo/EventLoop.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/EventLoop.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/EventLoopThread.o -c /mnt/d/vs_proj/muduo/mymuduo/EventLoopThread.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/EventLoopThread.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/EventLoopThreadPool.o -c /mnt/d/vs_proj/muduo/mymuduo/EventLoopThreadPool.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/InetAddress.o -c /mnt/d/vs_proj/muduo/mymuduo/InetAddress.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/InetAddress.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/Logger.o -c /mnt/d/vs_proj/muduo/mymuduo/Logger.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/Logger.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/Poller.o -c /mnt/d/vs_proj/muduo/mymuduo/Poller.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/Poller.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/Socket.o -c /mnt/d/vs_proj/muduo/mymuduo/Socket.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/Socket.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/TcpConnection.o -c /mnt/d/vs_proj/muduo/mymuduo/TcpConnection.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/TcpConnection.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/TcpServer.o -c /mnt/d/vs_proj/muduo/mymuduo/TcpServer.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/TcpServer.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/Thread.o -c /mnt/d/vs_proj/muduo/mymuduo/Thread.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/Thread.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/Timestamp.o -c /mnt/d/vs_proj/muduo/mymuduo/Timestamp.cc",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/Timestamp.cc"
+},
+{
+  "directory": "/mnt/d/vs_proj/muduo/mymuduo/build",
+  "command": "/usr/bin/g++     -g -std=c++11 -g   -o CMakeFiles/testmymuduo.dir/testMyMuduo.o -c /mnt/d/vs_proj/muduo/mymuduo/testMyMuduo.cpp",
+  "file": "/mnt/d/vs_proj/muduo/mymuduo/testMyMuduo.cpp"
+}
+]

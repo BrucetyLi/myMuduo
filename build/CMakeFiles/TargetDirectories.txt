@@ -1,0 +1,3 @@
+/mnt/d/vs_proj/muduo/mymuduo/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/vs_proj/muduo/mymuduo/build/CMakeFiles/edit_cache.dir
+/mnt/d/vs_proj/muduo/mymuduo/build/CMakeFiles/testmymuduo.dir
